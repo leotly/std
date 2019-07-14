@@ -1,9 +1,9 @@
 config:
   client:
     link: std-link
-  port: 18899
+  port: 8899
 spring:
   application:
-    name: config-client-link-2
+    name: config-client-link-1
 server:
-  port: 18899
+  port: 8899
